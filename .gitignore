@@ -1,0 +1,10 @@
+# Abaikan file sensitif koneksi database (opsional, hapus jika ingin diupload)
+# koneksi.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
